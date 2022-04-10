@@ -7,7 +7,7 @@ public class VendingNestedIF {
         String drinkItem = "coffee";
         String snackItem = "chips";
 
-    // Notes on String equality: we will not use "==" sign for String equality, we will use equals() method
+    // ReadMe on String equality: we will not use "==" sign for String equality, we will use equals() method
 
 
         if (selection == "drink"){
